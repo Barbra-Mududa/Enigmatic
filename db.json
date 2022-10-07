@@ -1,5 +1,4 @@
 {
-
   "images": [
     {
       "id": 1,
@@ -56,22 +55,31 @@
       "image": "https://i.ibb.co/nCQhZX8/Elephant-Hill.jpg"
     }
   ],
-  "blog" : [
+  "blog": [
     {
       "id": 10,
-      "title":"Best Stretches before Hiking",
-      "message":"Point your toes toward the tree, and place your hands on the trunk. Bend your left leg forward, and hold for about 30 seconds. Switch legs, and continue holding the position for another 30 seconds. Standing quad stretch: Keep your feet hip width apart, and stand up straight.<br> By:#Mysterious"
+      "title": "Best Stretches before Hiking",
+      "message": "Point your toes toward the tree, and place your hands on the trunk. Bend your left leg forward, and hold for about 30 seconds. Switch legs, and continue holding the position for another 30 seconds. Standing quad stretch: Keep your feet hip width apart, and stand up straight.<br> By:#Mysterious"
     },
     {
-      "id": 10,
-      "title":"My Fist Hiking Experience",
-      "message":"My first experience was Gatamaiyu.I witnessed a beautiful waterfall and many natural pools amidst forests.We chose a small picnic spot nearby and relaxed for a bit. We enjoyed our picnic food and the cold breeze. We took a dip in the pool and clicked loads of pictures and panoramic views of the waterfalls. It was all worth the efforts made in the last few hours. By: #AdventurousMe"
+      "id": 11,
+      "title": "My Fist Hiking Experience",
+      "message": "My first experience was Gatamaiyu.I witnessed a beautiful waterfall and many natural pools amidst forests.We chose a small picnic spot nearby and relaxed for a bit. We enjoyed our picnic food and the cold breeze. We took a dip in the pool and clicked loads of pictures and panoramic views of the waterfalls. It was all worth the efforts made in the last few hours. By: #AdventurousMe"
     },
     {
-      "id": 10,
-      "title":"Mt. Kenya Adventure!!",
-      "message":"As I ascended, I encountered a breath-taking view of the mountain.It was a belt of natural, homogenous bamboo followed by a region of low-lying shrubbery. Finally, the altitude becomes inhabitable for flora and fauna, yielding a barren moonscape of jagged rock and ice."
+      "id": 12,
+      "title": "Mt. Kenya Adventure!!",
+      "message": "As I ascended, I encountered a breath-taking view of the mountain.It was a belt of natural, homogenous bamboo followed by a region of low-lying shrubbery. Finally, the altitude becomes inhabitable for flora and fauna, yielding a barren moonscape of jagged rock and ice."
+    },
+    {
+      "title": "Experience",
+      "message": "I loved my hiking experience 🔥\nBy: barbs",
+      "id": 13
+    },
+    {
+      "title": "Experience",
+      "message": "I loved my hiking experience 🔥\nBy: barbs",
+      "id": 14
     }
-
   ]
-}  
+}

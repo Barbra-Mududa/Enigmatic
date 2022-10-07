@@ -38,8 +38,7 @@ function Blog() {
             <input type="text" value={title} onChange={(event)=>setTitle(event.target.value)} required></input>
 
             <label>Blog message:</label>
-            <textarea rows = "5" cols = "50"  value={message} onChange={(e)=>setMessage(e.target.value)} required>
-            Blog away...</textarea>
+            <textarea rows = "5" cols = "50"  value={message} onChange={(e)=>setMessage(e.target.value)} required></textarea>
             
             <button id='blog-btn'>Post</button>
         </form>

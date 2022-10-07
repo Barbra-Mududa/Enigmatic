@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-// import LoginForm from './LoginForm';
+import LoginForm from './LoginForm';
 // import NavBar from './NavBar';
 import Home from './Home';
-// import Blog from './Blog';
+import Blog from './Blog';
 // import Events from './Events';
 
 
@@ -13,8 +13,8 @@ function App() {
       {/* <NavBar/> */}
       <Home/>
       {/* <Events/> */}
-      {/* <Blog/> */}
-      {/* <LoginForm /> */}
+      <Blog/>
+      <LoginForm />
      </div>
   )}
 

@@ -1,8 +1,13 @@
-import React from 'react'
+import React, { useState} from 'react'
 
 function Blog() {
-  return (
-    
+  const[blog, setBlog] = useState([]);
+  
+  // // const handleSubmit = (data) => {
+
+  // // }
+
+  return(
     <div className='lets-blog'>
         <h1>Blog on your experiences</h1>
         <form id='blogForm'>

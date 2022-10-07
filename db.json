@@ -1,0 +1,59 @@
+{
+
+  "images": [
+    {
+      "id": 1,
+      "title": "Waterfall Inn Tigoni",
+      "Description": "A short stroll down through eucalyptus woodlands takes you to the beautiful 18m Tigoni Waterfalls set in lush green riverine forest.",
+      "image": "https://ibb.co/CvRh94y"
+    },
+    {
+      "id": 2,
+      "title": "Karura Forest Trail",
+      "Description": "Karura Forest is very scenic and relaxing, with lots of trees and soothing hiking trails. Great biking trails too. THe trails combine to a total length of 50km",
+      "image": "https://ibb.co/3v6hXvD"
+    },
+    {
+      "id": 3,
+      "title": "KEFRI Forest",
+      "Description": "A short 30Km drive from Nairobi CBD is a block of two forests Bama and Gacuthi. These forests host a scenic trail of natural and planted forests.",
+      "image": "https://ibb.co/59K8Gcp"
+    },
+    {
+      "id": 4,
+      "title": "Gatamaiyu",
+      "Description": "The Gatamaiyu trails are waterfall heavens and this specific trail boasts of two magnificent waterfalls, perfect for river swimming.",
+      "image": "https://ibb.co/kQ0fPQQ"
+    },
+    {
+      "id": 5,
+      "title": "Ololosokuan",
+      "Description": "Ololosokuan Nature Trail offers a unique blend of hiking, bouldering and sightseeing.It is situated close to Nairobi at the northern foothills of the Ngong Hills.",
+      "image": "https://ibb.co/WpKydwr"
+    },
+    {
+      "id": 6,
+      "title": "Thiririka",
+      "Description": "The Thiririka trail in Gatundu is unique because most of it is along the river. It's such a refreshingly different experience.",
+      "image": "https://ibb.co/WHxjwNc"
+    },
+    {
+      "id": 7,
+      "title": "Kijabe Hills",
+      "Description": "This Classic Hiking Trail is a one-way hike that is challenging and a good test of endurance.The hike is a combination of thick forest, caves and hot springs,dark tunnel and  over the hills.",
+      "image": "https://ibb.co/tcFzngj"
+    },
+    {
+      "id": 8,
+      "title": "Mount Kenya",
+      "Description": "Mount Kenya is the second highest mountain in Africa and offers breath-taking hikes suitable for adventurers with a range of abilities.",
+      "image": "https://ibb.co/yVcpVmL"
+    },
+    {
+      "id": 9,
+      "title": "Elephant Hill",
+      "Description": "As the rumours suggest,despite the trail is beautiful with breath-taking changing landscapes, the hike is tough. It is considered a group preparation for Mt. Kenya hike. ",
+      "image": "https://ibb.co/GTCgBZ3"
+    }
+  ]
+}  

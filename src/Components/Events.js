@@ -25,7 +25,7 @@ function filter(e) {
 
   return (
     <div>
-        {/* <Search searchInput={filter}/> */}
+        <Search searchInput={filter}/>
         <Card images={images}/>
     </div>
   )

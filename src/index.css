@@ -67,7 +67,7 @@ body{
 }
  
 /* BLOG */
-/* .lets-blog{
+.lets-blog{
   margin: 200px;
   align-items: center;
   justify-content: center;
@@ -104,14 +104,14 @@ text-align: center;}
 textarea{
   padding: 60px;
   margin-bottom: 20px;
-}
-#blog-btn{
+} 
+/* #blog-btn{
   width: 100px;
   background: var(--secondary-color);
   color: #fafafa;
   padding: 20px;
   font-size: large;
-} */
+} */ 
 /* LOGIN FORM */
 /* .page {
   margin: 200px;

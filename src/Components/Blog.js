@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import AddBlog from "./AddBlog";
 
 function Blog() {
   const [title, setTitle] = useState('');
@@ -41,6 +42,7 @@ function Blog() {
             
             <button id='blog-btn'>Post</button>
         </form>
+        <AddBlog />
     </div>
   )
 }

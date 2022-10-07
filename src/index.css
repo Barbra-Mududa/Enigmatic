@@ -130,7 +130,8 @@ textarea{
   background-color: var(--primary-color);
   padding: 20px;
   font-size: large;
-}  
+} 
+ 
 /* LOGIN FORM */
 .page {
   margin: 200px;

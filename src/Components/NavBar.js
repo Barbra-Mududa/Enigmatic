@@ -11,5 +11,5 @@
 //         <NavLink to ="/loginform">LoginForm</NavLink> */}
 //     </div>
 //     )
-// }
+}
 // export default NavBar;

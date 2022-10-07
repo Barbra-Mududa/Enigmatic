@@ -14,7 +14,7 @@ function Blog() {
             </select>
 
             <label>Title:</label>
-            <input/>
+            <input type="text" placeholder=""/>
 
             <label>Blog message:</label>
             <textarea required></textarea>

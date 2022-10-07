@@ -14,7 +14,6 @@ useEffect(() => {
         
   return (
     <div>
-        <input />
         <Card images={images}/>
     </div>
   )

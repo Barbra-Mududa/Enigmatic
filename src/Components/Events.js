@@ -1,5 +1,5 @@
 import React, { useEffect, useState} from 'react';
-import HikingList from './HikingList';
+import Card from './Card';
 
 function Events() {
 const [images, setImages] = useState([]);
@@ -14,7 +14,8 @@ useEffect(() => {
         
   return (
     <div>
-        <HikingList images={images}/>
+        <input />
+        <Card images={images}/>
     </div>
   )
 }

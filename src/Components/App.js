@@ -3,7 +3,7 @@ import LoginForm from './LoginForm';
 // import NavBar from './NavBar';
 import Home from './Home';
 import Blog from './Blog';
-// import Events from './Events';
+import Events from './Events';
 
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
     <div className='App'>
       {/* <NavBar/> */}
       <Home/>
-      {/* <Events/> */}
+      <Events/>
       <Blog/>
       <LoginForm />
      </div>

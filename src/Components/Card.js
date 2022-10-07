@@ -1,18 +1,17 @@
-// import React, { useEffect, useState } from 'react'
-// import HikingList from "./HikingList"
+import React from "react";
+import HikingList from "./HikingList";
 
+function HomeList({ images }) {
 
-// function Card({images}) {
+  return (
+    <div>
+      {images.map((img) => {
+        return (
+        <HikingList key={img.id} img ={img}/>
+        );
+      })}
+    </div>
+  );
+}
 
-//   return (
-//     <div>
-//       {images.map((img) => {
-//         return (
-//         <HikingList key={img.id} img ={img}/>
-//         );
-//       })}
-//     </div>
-//   )
-// }
-
-// export default Events;
+export default HomeList;

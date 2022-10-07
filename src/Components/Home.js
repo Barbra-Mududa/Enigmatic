@@ -1,7 +1,8 @@
 import React from 'react';
-import { Switch, Route } from "react-router-dom";
 
 function Home() {
+
+
   return (
     <div className="main-container">
         <div className="welcome">

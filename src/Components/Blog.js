@@ -2,6 +2,7 @@ import React from 'react'
 
 function Blog() {
   return (
+    
     <div className='lets-blog'>
         <h1>Blog on your experiences</h1>
         <form id='blogForm'>

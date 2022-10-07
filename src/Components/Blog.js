@@ -4,13 +4,12 @@ function Blog() {
   const [title, setTitle] = useState('');
   const [message, setMessage] = useState('');
 
-  const url = "http://localhost:3000/blog"
   const formData = {title,message}
 
   const handleAdd = (event) => {
     event.preventDefault();
     
-    fetch(url, {
+    fetch("https://hikimg.herokuapp.com/blog", {
       method: 'POST',
       headers:{'Content-Type':'application/json'},
       body: JSON.stringify(formData)

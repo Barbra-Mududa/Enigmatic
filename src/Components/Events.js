@@ -7,7 +7,7 @@ const [images, setImages] = useState([]);
 const [ search,  setSearch] = useState([]);
 
 useEffect(() => {
-    fetch("http://localhost:3000/images")
+    fetch("https://hikimg.herokuapp.com/images")
       .then((res) => res.json())
       .then((event) => {
         setImages(event);

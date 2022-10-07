@@ -1,22 +1,22 @@
-// import React, { useEffect, useState} from 'react';
-// import HikingList from './HikingList';
+import React, { useEffect, useState} from 'react';
+import HikingList from './HikingList';
 
-// function Events() {
-// const [images, setImages] = useState([]);
+function Events() {
+const [images, setImages] = useState([]);
 
-// useEffect(() => {
-//     fetch("http://localhost:3000/images")
-//       .then((res) => res.json())
-//       .then((event) => {
-//         setImages(event);
-//     });
-// }, []);
+useEffect(() => {
+    fetch("http://localhost:3000/images")
+      .then((res) => res.json())
+      .then((event) => {
+        setImages(event);
+    });
+}, []);
         
-//   return (
-//     <div>
-//         <HikingList images={images}/>
-//     </div>
-//   )
-// }
+  return (
+    <div>
+        <HikingList images={images}/>
+    </div>
+  )
+}
 
-// export default Events
+export default Events

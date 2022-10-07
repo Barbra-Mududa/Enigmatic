@@ -113,7 +113,7 @@ textarea{
   font-size: large;
 }  
 /* LOGIN FORM */
-/* .page {
+.page {
   margin: 200px;
   align-items: center;
   justify-content: center;
@@ -175,4 +175,4 @@ textarea{
 .text{
   position: relative;
   bottom: -2em;
-} */
+} 

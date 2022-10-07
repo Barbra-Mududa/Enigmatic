@@ -8,7 +8,6 @@ function Search({searchInput}) {
        onChange={searchInput} 
         type="text"
         placeholder="Search event"
-         
       />
     </div>
   );

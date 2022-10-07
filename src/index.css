@@ -16,25 +16,40 @@
 
 body{
   background: var(--primary-color);
+  overflow: scroll;
 }
 
 /* NAVBAR */
-/* .navbar{
+.navbar{
   width: 100%;
   margin-bottom: 20px;
+  display: flex;
+  background-color: var(--secondary-color);
+  /* color: #fafafa; */
 }
 .navbar h1{
   font-family: 'Big Shoulders Display', cursive;
   color:rgb(250 250 250);
   font-size: 70px;
-  background-color: var(--secondary-color);
+  width: 50%;
+  margin-left: 300px;
 }
+nav{
+  padding: 30px;
+  margin-right: 300px;
+}
+nav a{
+  color: #fafafa;
+  justify-content: space-around; 
+  padding: 20px;
+  font-size: x-large;
+}
+
+/* HOME */
 .main-container{
   width: 80%;
   margin-left: 200px;
-} */
-
-/* HOME */
+}
 .welcome{
   color: #02473C;
   display: flex;

@@ -16,7 +16,7 @@ Enigmatic is a hiking events website that enables hikers explore the beauty of n
 
 ## Project Preview
 Below is preview of the website's Home page. 
-<img src="./public/home.jpg">
+<img src="./public/image 3.jpg">
 
 ## Setup
 1. Clone this GitHub repository

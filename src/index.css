@@ -132,6 +132,13 @@ textarea{
   font-size: large;
 } 
  
+/*BLOGPOST*/
+.blog-post{
+  margin-top: 70px;
+}
+.blog-post > h2{
+  color: var(--primary-color);
+}
 /* LOGIN FORM */
 .page {
   margin: 200px;
